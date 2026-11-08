@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="plugin.video.issoufm3u" name="TV M3U" version="1.0.0" provider-name="issouf-prog">
+    <requires>
+        <import addon="xbmc.python" version="3.0.0"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="main.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary lang="en_GB">Browse and play M3U television channels</summary>
+        <summary lang="fr_FR">Parcourir et regarder les chaînes TV de listes M3U</summary>
+        <description lang="en_GB">Browse the repository playlists or add your own M3U URL.</description>
+        <description lang="fr_FR">Parcourez les listes du dépôt ou ajoutez votre propre URL M3U.</description>
+        <platform>all</platform>
+    </extension>
+</addon>

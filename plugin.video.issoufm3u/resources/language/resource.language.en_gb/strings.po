@@ -1,0 +1,60 @@
+msgid ""
+msgstr ""
+"Language: en_GB\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgctxt "#30001"
+msgid "TV playlist"
+msgstr ""
+
+msgctxt "#30002"
+msgid "TV playlist (Austria)"
+msgstr ""
+
+msgctxt "#30003"
+msgid "TV playlist (alternative)"
+msgstr ""
+
+msgctxt "#30004"
+msgid "My playlist"
+msgstr ""
+
+msgctxt "#30005"
+msgid "Settings"
+msgstr ""
+
+msgctxt "#30006"
+msgid "All channels"
+msgstr ""
+
+msgctxt "#30007"
+msgid "Search channels"
+msgstr ""
+
+msgctxt "#30008"
+msgid "Ungrouped"
+msgstr ""
+
+msgctxt "#30009"
+msgid "{0} (add-on required)"
+msgstr ""
+
+msgctxt "#30010"
+msgid "To play this channel, install or enable {0} in Kodi."
+msgstr ""
+
+msgctxt "#30011"
+msgid "Could not load the playlist. Check the connection and the M3U URL."
+msgstr ""
+
+msgctxt "#30012"
+msgid "The M3U playlist contains no supported channels."
+msgstr ""
+
+msgctxt "#30013"
+msgid "No channels match the search."
+msgstr ""
+
+msgctxt "#30014"
+msgid "Personal playlist URL (HTTP or HTTPS)"
+msgstr ""
