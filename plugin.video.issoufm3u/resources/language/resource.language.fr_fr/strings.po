@@ -1,0 +1,60 @@
+msgid ""
+msgstr ""
+"Language: fr_FR\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgctxt "#30001"
+msgid "TV playlist"
+msgstr "Liste TV"
+
+msgctxt "#30002"
+msgid "TV playlist (Austria)"
+msgstr "Liste TV (Autriche)"
+
+msgctxt "#30003"
+msgid "TV playlist (alternative)"
+msgstr "Liste TV (alternative)"
+
+msgctxt "#30004"
+msgid "My playlist"
+msgstr "Ma liste"
+
+msgctxt "#30005"
+msgid "Settings"
+msgstr "Paramètres"
+
+msgctxt "#30006"
+msgid "All channels"
+msgstr "Toutes les chaînes"
+
+msgctxt "#30007"
+msgid "Search channels"
+msgstr "Rechercher une chaîne"
+
+msgctxt "#30008"
+msgid "Ungrouped"
+msgstr "Sans groupe"
+
+msgctxt "#30009"
+msgid "{0} (add-on required)"
+msgstr "{0} (extension requise)"
+
+msgctxt "#30010"
+msgid "To play this channel, install or enable {0} in Kodi."
+msgstr "Pour regarder cette chaîne, installez ou activez {0} dans Kodi."
+
+msgctxt "#30011"
+msgid "Could not load the playlist. Check the connection and the M3U URL."
+msgstr "Impossible de charger la liste. Vérifiez la connexion et l’URL M3U."
+
+msgctxt "#30012"
+msgid "The M3U playlist contains no supported channels."
+msgstr "La liste M3U ne contient aucune chaîne compatible."
+
+msgctxt "#30013"
+msgid "No channels match the search."
+msgstr "Aucune chaîne ne correspond à la recherche."
+
+msgctxt "#30014"
+msgid "Personal playlist URL (HTTP or HTTPS)"
+msgstr "URL de la liste personnelle (HTTP ou HTTPS)"
